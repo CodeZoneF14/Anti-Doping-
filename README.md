@@ -1,9 +1,1 @@
-This initiative includes four key services:
-
-1️⃣ News Updates: Regularly uploaded news related to anti-doping. 
-2️⃣ Animated Awareness Videos: Engaging content to promote awareness (video launching soon!). 
-3️⃣ Quiz Section: A fun and interactive way for users to test their knowledge, with questions updated daily. 
-4️⃣ AI Chatbot: An intelligent assistant that answers all your queries regarding anti-doping.
-
-
-Together, we can promote a cleaner and fairer sporting environment! 💪
+An interactive awareness and support platform designed to promote clean sports. It provides the latest anti-doping news, engaging animations for better understanding, interactive quizzes to test knowledge, and an AI-powered chatbot for instant guidance. Built for the Smart India Hackathon with a focus on education, accessibility, and athlete support.
